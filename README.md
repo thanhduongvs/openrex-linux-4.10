@@ -1,5 +1,5 @@
 # About
-This is a source code of Linux Kernel 3.14 for OpenRex board.
+This is a source code of Linux Kernel 4.10 for OpenRex board.
 
 ### About OpenRex
 OpenRex is an open source hardware and software project.
@@ -14,8 +14,8 @@ For more detailed instructions about how to prepare software for OpenRex, go to:
 http://www.imx6rex.com/open-rex/software/how-develop-your-own-software-uboot-linux-filesystem-yocto/
 
 # Download source code
-    git clone -b jethro https://github.com/FEDEVEL/openrex-linux-3.14.git
-    cd openrex-linux-3.14
+    git clone -b morty https://github.com/thanhduongvs/openrex-linux-4.10.git
+    cd openrex-linux-4.10
 
 # Install & select cross compiler
 
